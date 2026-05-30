@@ -180,4 +180,6 @@ More detailed design notes are available in `docs/`:
 - `docs/agent-evaluation-strategy.md`
 - `docs/hierarchical-knowledge-and-retrieval-architecture.md`
 - `docs/user-understanding-layer.md`
+- `docs/githru-reference-analysis.md`
+- `docs/githru.pdf`
 - `docs/reference-projects-and-products.md`
